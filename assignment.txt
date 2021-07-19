@@ -1,3 +1,3 @@
-This is my first assignment for git.
+This is my assignment for git.
 here I'm performing push operation.
 adding line in remote to perform Pull operation.
